@@ -1,1 +1,3 @@
 # Backend
+
+This summer I wanted to learn more about backend organisation as the backend in my previous projects has been very disorganised. I chose to cover routes which I believe makes keeps the server file short and clean. Next was templates as I always found front end very time consuming as my team and I would have to do both frontend and backend, templates are perfect as they reduce the time spent structuring and designing the client-side. Finally, I wanted to experiment with sending and scheduling emails for promotional and security purposes such as password reset links and special offers. 
