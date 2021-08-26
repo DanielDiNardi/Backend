@@ -1,0 +1,16 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "Send emails from JS",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Di Nardi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.6.3"
+  }
+}

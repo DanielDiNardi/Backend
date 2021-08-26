@@ -1,0 +1,15 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "Testing routes in NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Daniel Di Nardi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
